@@ -10,7 +10,13 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+opengraph:
+  type: Karmic Images Facebook Page
+  appId: facebook.com/karmic.images
 layout_spectrum: 0.703779992647469
+author:
+  name: Charmaine Marchesi
+  email: karmicimages.cm@gmail.com
 name: Karmic Images
 title: Welcome to Karmic Images
 description: Specializing in Living Photography
