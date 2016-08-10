@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Welcome to Karmic Images]]></title>
         <description><![CDATA[Welcome to Karmic Images]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://karmicimages.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 17:58:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 17:58:47 GMT</lastBuildDate>
+        <atom:link href="http://karmicimages.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/faaeb20d-3e0c-49a9-b503-f965a608ef5e.jpg">]]></description>
+            <link>http://karmicimages.com/6460ba0c-4aa9-4b19-a873-ecfb6ad065f9/index.html</link>
+            <guid isPermaLink="false">6460ba0c-4aa9-4b19-a873-ecfb6ad065f9</guid>
+            <pubDate>Wed, 10 Aug 2016 17:58:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42439f7f-c6de-47f7-8eb7-7efb14d43f21.jpg">]]></description>
-            <link>undefineddb184865-9310-4229-84e8-06501d0cf9ba/index.html</link>
+            <link>http://karmicimages.com/db184865-9310-4229-84e8-06501d0cf9ba/index.html</link>
             <guid isPermaLink="false">db184865-9310-4229-84e8-06501d0cf9ba</guid>
             <pubDate>Wed, 10 Aug 2016 17:57:59 GMT</pubDate>
         </item>
