@@ -1,14 +1,14 @@
 ---
-description: 'All images ©2011-2016 Charmaine Marchesi. All rights reserved. '
-dateModified: '2016-08-10T18:19:34.470Z'
-datePublished: '2016-08-11T20:44:15.271Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-11T20:46:18.798Z'
 sourcePath: >-
   _posts/2016-08-11-all-images-c2011-2016-charmaine-marchesi-all-rights-reserve.md
+author: []
+via: {}
+dateModified: '2016-08-11T20:46:18.257Z'
+title: ''
+publisher: {}
+description: All images ©2011-2016 Charmaine Marchesi. All rights reserved.
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
