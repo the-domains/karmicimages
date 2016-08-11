@@ -1,19 +1,19 @@
-typography_spectrum: 0.1543086797464639
+typography_spectrum: 0.35563366836868227
 color:
-  brandStrength: 0.16627603746019304
-  lightness: 0.981153029948473
-  saturation: 0.0024072169326245785
-  rhythmicContrast: 0.4631436977069825
+  brandStrength: 0.07578757964074612
+  lightness: 0.323738279286772
+  saturation: 0.8812077504117042
+  rhythmicContrast: 0.03613845817744732
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 opengraph:
   type: Karmic Images Facebook Page
   appId: facebook.com/karmic.images
-layout_spectrum: 0.703779992647469
+layout_spectrum: 0.8107900351751596
 author:
   name: Charmaine Marchesi
   email: karmicimages.cm@gmail.com
